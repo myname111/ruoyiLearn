@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ruoyiLearn-common:war">
+    <output-path>$PROJECT_DIR$/ruoyiLearn-common/target</output-path>
+    <root id="archive" name="ruoyiLearn-common.war">
+      <element id="artifact" artifact-name="ruoyiLearn-common:war exploded" />
+    </root>
+  </artifact>
+</component>

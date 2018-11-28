@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ruoyiLearn-admin" />
+        <module name="ruoyiLearn-common" />
+        <module name="ruoyiLearn-framework" />
+        <module name="ruoyiLearn-generator" />
+        <module name="ruoyiLearn-quartz" />
+        <module name="ruoyiLearn-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ruoyiLearn" target="1.8" />
+      <module name="ruoyiLearn-admin" target="1.8" />
+      <module name="ruoyiLearn-common" target="1.8" />
+      <module name="ruoyiLearn-framework" target="1.8" />
+      <module name="ruoyiLearn-generator" target="1.8" />
+      <module name="ruoyiLearn-quartz" target="1.8" />
+      <module name="ruoyiLearn-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ruoyiLearn.iml" filepath="$PROJECT_DIR$/ruoyiLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruoyiLearn-admin/ruoyiLearn-admin.iml" filepath="$PROJECT_DIR$/ruoyiLearn-admin/ruoyiLearn-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruoyiLearn-common/ruoyiLearn-common.iml" filepath="$PROJECT_DIR$/ruoyiLearn-common/ruoyiLearn-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruoyiLearn-framework/ruoyiLearn-framework.iml" filepath="$PROJECT_DIR$/ruoyiLearn-framework/ruoyiLearn-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruoyiLearn-generator/ruoyiLearn-generator.iml" filepath="$PROJECT_DIR$/ruoyiLearn-generator/ruoyiLearn-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruoyiLearn-quartz/ruoyiLearn-quartz.iml" filepath="$PROJECT_DIR$/ruoyiLearn-quartz/ruoyiLearn-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruoyiLearn-system/ruoyiLearn-system.iml" filepath="$PROJECT_DIR$/ruoyiLearn-system/ruoyiLearn-system.iml" />
+    </modules>
+  </component>
+</project>
